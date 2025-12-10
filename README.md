@@ -11,6 +11,7 @@ I'm Dan. I'm studying CS, and I like to understand how things work. I enjoy digg
 * My dotfiles and homelab setups (I tweak them more than I should)
 
 **What I’m into**
+
 Low-level concepts, reverse engineering, debugging, Linux tinkering, homelabbing and mechanical keyboards.
 
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="100">
